@@ -2,9 +2,11 @@
   "schemaVersion": "1.0",
   "id": "modern-table-round",
   "name": "Modern Table - Round",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "table-pack",
-  "entry": {},
+  "entry": {
+    "setup": "setup.json"
+  },
   "assets": [
     "models/round_table.glb",
     "models/round_table.meta.json",
