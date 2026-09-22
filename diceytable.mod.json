@@ -1,0 +1,144 @@
+{
+  "schemaVersion": "1.0",
+  "id": "modern-table-round",
+  "name": "Modern Table - Round",
+  "version": "0.1.0",
+  "type": "table-pack",
+  "entry": {},
+  "assets": [
+    "models/round_table.glb",
+    "models/round_table.meta.json",
+    "textures/round-table/diffuse-407c0825.jpg",
+    "textures/round-table/normal-00a80709.png",
+    "textures/round-table/roughness-c034442d.png"
+  ],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "license": "MIT",
+  "tags": [
+    "modern",
+    "marble",
+    "round",
+    "black",
+    "white"
+  ],
+  "credits": [
+    {
+      "id": "credit-d4b1f4e0-91fa-4fa4-8a67-495c57a8279a",
+      "paths": [
+        "models/round_table.glb",
+        "models/round_table.meta.json",
+        "textures/round-table/diffuse-407c0825.jpg",
+        "textures/round-table/normal-00a80709.png",
+        "textures/round-table/roughness-c034442d.png"
+      ],
+      "origin": "third-party",
+      "title": "Round Table",
+      "creator": "rickmaolly",
+      "creatorUrl": "https://sketchfab.com/rickmaolly",
+      "sourceUrl": "https://sketchfab.com/3d-models/round-table-ca081aeade914a0799dff75f928ae659",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "recordedAt": "2026-09-22T17:53:46.812Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T17:53:46.812Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-5e3f8d76-81ec-4366-93b7-3e98fb22b995",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-22T18:06:59.161Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T18:06:59.161Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-2b5cbf9a-c5e3-48fc-be3d-af2e210042c4",
+      "paths": [
+        "media/screenshot-0.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-22T18:07:07.077Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T18:07:07.077Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-0701dfbc-8a53-4b50-ad18-0924442d3eb9",
+      "paths": [
+        "media/screenshot-1.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-22T18:07:20.887Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T18:07:20.887Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-c181d7d2-f02e-446a-9a05-702e2fe6f105",
+      "paths": [
+        "media/screenshot-2.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-22T18:07:33.626Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T18:07:33.626Z",
+        "signedName": "Matt Larson"
+      }
+    }
+  ],
+  "slug": "modern-table-round",
+  "summary": "A modern round table",
+  "description": "A modern round table that is perfect for up to six people playing board and card games.",
+  "coverImage": "media/cover.webp",
+  "screenshots": [
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0.045611418209470345,
+        "y": 0,
+        "w": 0.9087771635810593,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-1.webp",
+      "crop": {
+        "x": 0.04812703132867851,
+        "y": 0,
+        "w": 0.9110819097678493,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-2.webp",
+      "crop": {
+        "x": 0.05448627092877014,
+        "y": 0,
+        "w": 0.9075336479636427,
+        "h": 1
+      }
+    }
+  ],
+  "excludedAssets": [
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp",
+    "media/screenshot-1.webp",
+    "media/screenshot-2.webp"
+  ]
+}
