@@ -3,7 +3,7 @@
   "rendererVersion": 1,
   "entries": {
     "@materials/mat-18120731-5429-4601-8464-5e39be047a31": {
-      "inputHash": "5c2bcbc19b84fa17",
+      "inputHash": "0848efff8ba93ce8",
       "file": "thumbnails/@materials/mat-18120731-5429-4601-8464-5e39be047a31.webp",
       "width": 256,
       "height": 256
@@ -39,7 +39,7 @@
       "height": 144
     },
     "models/round_table.glb": {
-      "inputHash": "4b90a7fad6833c62",
+      "inputHash": "d5047e8c56f16f68",
       "file": "thumbnails/models/round_table.glb.webp",
       "width": 256,
       "height": 256
